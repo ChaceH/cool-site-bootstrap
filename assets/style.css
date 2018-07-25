@@ -3,12 +3,10 @@
     outline: 1px solid black;
 }
 
-/* this gives the blue class the color blue */
 .blue{
     background-color: blue;
 }
 
-/* give the class height-100 the height set below */
 .height-100{
     height: 100px;
 }
